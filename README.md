@@ -1,5 +1,5 @@
 # Open Learn Research
-## Welcome to the OpenLearnresearch project :tada
+## Welcome to the OpenLearnresearch project 
 Hey there.. We are glad you thought of looking at our project.. But let's get to know..
 
 * Have you ever taken a Coursera or edX course? 
