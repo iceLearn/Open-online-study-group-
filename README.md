@@ -33,7 +33,7 @@ We are initially two people who worked together in another open source project. 
 
 **Mark Whiting** is a Postdoctoral fellow at Stanford University CA, USA, researching in the discipline of HCI, crowdsourcing. He is part of the leading team working closely with Dilrukshi since the day of the project inception. You can find more of him - www.whiting.me
 
-**Hasara** is CSE undergraduate student at University of Moratuwa, Sri Lanka who got involved to this project though Dilrukshi at the same University. Hasara is interested in ML AI and HCI. She is eager to learn more with the community and looking forward to working with all of you. You can contact Hasara at - 
+**Hasara Maithree** is CSE undergraduate student at University of Moratuwa, Sri Lanka who got involved to this project though Dilrukshi at the same University. Hasara is interested in ML AI and HCI. She is eager to learn more with the community and looking forward to working with all of you. You can contact Hasara at - https://www.linkedin.com/in/hasara-maithree/
 
 ## What are we doing?
 
@@ -100,6 +100,7 @@ Please sign up with your information - Google form link - we will keep you up to
 Any questions - you can reach 
 * Dilrukshi - dilrukshi.gamage@gmail.com
 * Mark - mark.whiting@gmail.com
+
 
 ## Findout More
 
