@@ -23,8 +23,8 @@ In this README file we will walk you through how you can contribute at any level
 ## Get to know us
 We were two colleagues who collaborate in another open source project and after 2 years we became interested in working to make online learning a much better place than just one for consuming content. 
 
-* **Dilrukshi Gamage** is the project lead. She is a PhD student in her final year in University of Moratuwa, Sri Lanka. She has has participated in around 60 MOOCs since 2012 and found many interesting gaps in open online learning. She discussed those problems with her online colleague and together they formed the a team to work with Mozilla. You can find out more about her at her website: [www.dilrukshigamage.com](www.dilrukshigamage.com)
-* **[Mark Whiting](www.whiting.me)** is a postdoc in computer science at Stanford focusing on HCI. 
+* **Dilrukshi Gamage** is the project lead. She is a PhD student in her final year in University of Moratuwa, Sri Lanka. She has has participated in around 60 MOOCs since 2012 and found many interesting gaps in open online learning. She discussed those problems with her online colleague and together they formed the a team to work with Mozilla. You can find out more about her at her website: [www.dilrukshigamage.com](http://www.dilrukshigamage.com)
+* **[Mark Whiting](http://whiting.me)** is a postdoc in computer science at Stanford focusing on HCI. 
 * **Hasara Maithree** is CSE undergraduate student at University of Moratuwa, Sri Lanka who got involved to this project though Dilrukshi. Hasara is interested in ML, AI and HCI. She is eager to learn more with the community and is looking forward to working with all of you. You can contact [Hasara on linkedin](https://www.linkedin.com/in/hasara-maithree/). 
 
 ## What are we doing?
@@ -81,4 +81,4 @@ Please fill out our google form and we will keep you up to date with our progres
 * See our web page - coming soon
 * Our Milestone - coming soon
 * Roadmap to the project - coming soon
-* [Chat room](www.gitter.im/Openlearnresearch)
+* Chat room - coming soon
