@@ -52,7 +52,8 @@ Join our mailing list to hear when there are major updates (link coming soon), a
 ## Get to know us
 We are a team excited by online learning and interested in improving it by building active communities around learning interests. We each bring different academic and technical backgrounds: 
 
-|:-:|---|
+| Contributor | Biography |
+|:---:|---|
 | **[Dilrukshi Gamage](http://www.dilrukshigamage.com)** ([@iceLearn](https://github.com/iceLearn)) | **Project lead** and PhD student in her final year in the University of Moratuwa, Sri Lanka. Dilrukshi has participated in around 60 MOOCs since 2012 and found many interesting gaps in open online learning which she is studying in her PhD. |
 | **[Mark Whiting](http://whiting.me)** ([@markwhiting](https://github.com/markwhiting)) | Postdoc at Stanford in the [HCI group](http://hci.stanford.edu). |
 | **[Hasara Maithree](https://www.linkedin.com/in/hasara-maithree/)** ([@deHasara](https://github.com/deHasara)) | CSE undergraduate student at the University of Moratuwa, in Sri Lanka. She is interested in ML, AI and HCI. |
