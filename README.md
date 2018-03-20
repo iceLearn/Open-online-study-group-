@@ -1,17 +1,11 @@
 # OpenLearnResearch
-Welcome to OpenLearnResearch. Lets get to know each other.
+OpenLearnResearch is a project to build communities around massive online open courses (MOOCs) to help isolated learners get the most out of these resources.
 
 * Have you ever taken a Coursera or edX course? 
 * Were you able to find an exciting diverse team to study with or did you feel lonely? 
-* Did you wish you have an active community to learn?
+* Did you wish you had an active community to learn with?
 
-Well, if you had any of these experiences, you are in the right place. 
-
-OpenLearnResearch is a project to build communities around massive online open courses (MOOCs) to help isolated learners get the most out of these resources.
-
-We are building tools for MOOC communities to work as effective small groups.
-
-In this README file we will walk you through how you can contribute at any level. All you need is passion for learning and willingness to work with a group.
+If you had any of these experiences, you are in the right place. We are building tools for MOOC communities to work as effective and supportive small groups.
 
 * [Get to know us?](#get-to-know-us)
 * [What are we doing?](#what-are-we-doing)
@@ -20,65 +14,47 @@ In this README file we will walk you through how you can contribute at any level
 * [Get in touch](#get-in-touch)
 * [Find out more](#find-out-more)
 
-## Get to know us
-We were two colleagues who collaborate in another open source project and after 2 years we became interested in working to make online learning a much better place than just one for consuming content. 
-
-* **Dilrukshi Gamage** is the project lead. She is a PhD student in her final year in University of Moratuwa, Sri Lanka. She has has participated in around 60 MOOCs since 2012 and found many interesting gaps in open online learning. She discussed those problems with her online colleague and together they formed the a team to work with Mozilla. You can find out more about her at her website: [www.dilrukshigamage.com](http://www.dilrukshigamage.com)
-* **[Mark Whiting](http://whiting.me)** is a postdoc in computer science at Stanford focusing on HCI. 
-* **Hasara Maithree** is CSE undergraduate student at University of Moratuwa, Sri Lanka who got involved to this project though Dilrukshi. Hasara is interested in ML, AI and HCI. She is eager to learn more with the community and is looking forward to working with all of you. You can contact [Hasara on linkedin](https://www.linkedin.com/in/hasara-maithree/). 
-
 ## What are we doing?
-### The Problem 
+### The problem 
+Online learning in MOOCs focuses on the transfer of information and completing assessments. Learners in MOOCs are generally isolated from the thousands of other learners who are engaged with the course at the same time. 
 
-* Online learning in MOOCs are concentrating on information transfer, delivery of content. 
-* Learners in a MOOC is isolated from other thousands of learners who learn at the same time
 * How might we connect learners in a MOOC course and empower them to learn together as a diverse team? 
-* How might effectively grow the learning community where they can find effective learners and teams? 
-* How might we facilitate a larger community and a smaller community to perform in a group?
+* How might we grow the learning community to enable finding effective learners and forming teams? 
+* How might we facilitate a larger community and a smaller community to perform in a coherent group?
 
-### The (a) Solution
+### Our solution
 
-We believe in active learning community working as a team. We will build a tool/ platform to effective gather learners and facilitate them to work on teams. We may call it: “MOOCing with a group” → **GroupMOOC**
+We are building a platform to gather learners and help them work in teams around courses and interests. We believe in forming an active learning community to work as a team where members support each other and collectively benefit.
 
-## What do we need?
-Not only technical contributors but anyone who is interested in online learning and have ideas to make the online learning more engaging with groups can contribute ideas. Ideas and feedback to the models we build are important, and we value them very much. 
-
-We are also looking for help with:
-* design
-* development 
-* testing team for the platform
-
-Get in contact to learn about specific needs.
+So far, we have started designing this system and are implementing it with a [Discourse forum](https://www.discourse.org). We hope to use [Discourse plugins](https://meta.discourse.org/t/beginners-guide-to-creating-discourse-plugins-part-1/30515) to add specific features.
 
 ## How can you get involved?
-There are a few ways you can join in: technical, non technical and a hybrid of the two.
+We need both learners and technical contributors. We need help in clarifying our ideas, gathering participants, and implementing the solutions we design together.
 
-### Technical 
-* Here is the code - Link 
-* Join in by making pull requests, work on the issues created. 
+We are open to all participants and adhere to the [contributor covenant](https://github.com/iceLearn/Openlearnresearch/blob/master/CODE_OF_CONDUCT.md).
 
-### Hybrid ( Technical and non technical )
-* Here are the concept maps of the platform - Link
+Everyone is welcome to join our monthly town hall meetings (signup link coming soon), and you can contribute in different ways depending on your background:
 
- Contribute to:
-* Interaction Design IxD
-* User Interfaces UI
-* User Experience UX 
-* User Research
+### Being a non-technical contributor
+Join the conversation on our forum: (link coming soon)
 
-### Non Technical
-Join in to the conversation in forum:
+* Share your experiences and challenges with MOOCs
+* Help us refine our solutions and share your ideas
 
-* Share your experiences and problems in learning from MOOCs
-* Help us think through solutions and ideas 
-* Join our town hall meetings once a month at 9pm PDT
+### Being a technical contributor
+Check our open [issues](https://github.com/iceLearn/Openlearnresearch/issues). Issues tagged [mozsprint](https://github.com/iceLearn/Openlearnresearch/issues?utf8=✓&q=is%3Aopen+is%3Aissue+label%3Amozsprint+) are especially suitable for getting started by joining the conversation, or adding a solution with a pull request.
+
+**If you're interested in UI/UX and usability research**, let us know. We’re eager to get you involved.
 
 ## Get in touch
-Please fill out our google form and we will keep you up to date with our progress. If you're interested we also invite you to contribute on this project. Get in touch by mailing [Dilrukshi](mailto:dilrukshi.gamage@gmail.com) and [Mark](mailto:mark.whiting@gmail.com).
+Join our mailing list to hear when there are major updates (link coming soon), and join our forum to be part of the conversation (link coming soon).  
 
-## Find out more
+## Get to know us
+We are a team excited by online learning and interested in improving it by building active communities around learning interests. We each bring different academic and technical backgrounds: 
 
-* See our web page - coming soon
-* Our Milestone - coming soon
-* Roadmap to the project - coming soon
-* Chat room - coming soon
+|:-:|---|
+| **[Dilrukshi Gamage](http://www.dilrukshigamage.com)** ([@iceLearn](https://github.com/iceLearn)) | **Project lead** and PhD student in her final year in the University of Moratuwa, Sri Lanka. Dilrukshi has participated in around 60 MOOCs since 2012 and found many interesting gaps in open online learning which she is studying in her PhD. |
+| **[Mark Whiting](http://whiting.me)** ([@markwhiting](https://github.com/markwhiting)) | Postdoc at Stanford in the [HCI group](http://hci.stanford.edu). |
+| **[Hasara Maithree](https://www.linkedin.com/in/hasara-maithree/)** ([@deHasara](https://github.com/deHasara)) | CSE undergraduate student at the University of Moratuwa, in Sri Lanka. She is interested in ML, AI and HCI. |
+
+We are eager to learn more with the community and are looking forward to working with all of you.
