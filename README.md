@@ -25,7 +25,7 @@ We were two colleagues who collaborate in another open source project and after 
 
 * **Dilrukshi Gamage** is the project lead. She is a PhD student in her final year in University of Moratuwa, Sri Lanka. She has has participated in around 60 MOOCs since 2012 and found many interesting gaps in open online learning. She discussed those problems with her online colleague and together they formed the a team to work with Mozilla. You can find out more about her at her website: [www.dilrukshigamage.com](http://www.dilrukshigamage.com)
 * **[Mark Whiting](http://whiting.me)** is a postdoc in computer science at Stanford focusing on HCI. 
-* **Hasara Maithree** is CSE undergraduate student at University of Moratuwa, Sri Lanka who got involved to this project though Dilrukshi. Hasara is interested in ML, AI and HCI. She is eager to learn more with the community and is looking forward to working with all of you. You can contact [Hasara on linkedin](https://www.linkedin.com/in/hasara-maithree/). 
+* **Hasara Maithree** is CSE undergraduate student at University of Moratuwa, Sri Lanka who got involved to this project through Dilrukshi. Hasara is interested in ML, AI and HCI. She is eager to learn more with the community and is looking forward to working with all of you. You can contact [Hasara on linkedin](https://www.linkedin.com/in/hasara-maithree/). 
 
 ## What are we doing?
 ### The Problem 
