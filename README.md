@@ -1,5 +1,6 @@
 # OpenLearnResearch
 Welcome to OpenLearnResearch. Lets get to know each other.
+<p align="center"><img src="https://user-images.githubusercontent.com/12571844/37892077-33eb7b9c-30f4-11e8-881c-5d61360fa1f9.png" width="400" class="center"/> </p>
 
 * Have you ever taken a Coursera or edX course? 
 * Were you able to find an exciting diverse team to study with or did you feel lonely? 
