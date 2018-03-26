@@ -19,6 +19,8 @@ If you had any of these experiences, you are in the right place. We are building
 ### The problem 
 Online learning in MOOCs focuses on the transfer of information and completing assessments. Learners in MOOCs are generally isolated from the thousands of other learners who are engaged with the course at the same time. 
 
+![](https://user-images.githubusercontent.com/12571844/37924277-fdad5c20-314e-11e8-8824-2340a046b6da.png)
+
 * How might we connect learners in a MOOC course and empower them to learn together as a diverse team? 
 * How might we grow the learning community to enable finding effective learners and forming teams? 
 * How might we facilitate a larger community and a smaller community to perform in a coherent group?
@@ -26,6 +28,7 @@ Online learning in MOOCs focuses on the transfer of information and completing a
 ### Our solution
 
 We are building a platform to gather learners and help them work in teams around courses and interests. We believe in forming an active learning community to work as a team where members support each other and collectively benefit.
+![](https://user-images.githubusercontent.com/12571844/37924357-428d1a88-314f-11e8-99f5-bb42101b5b68.png)
 
 So far, we have started designing this system and are implementing it with a [Discourse forum](https://www.discourse.org). We hope to use [Discourse plugins](https://meta.discourse.org/t/beginners-guide-to-creating-discourse-plugins-part-1/30515) to add specific features.
 
