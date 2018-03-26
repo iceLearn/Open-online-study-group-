@@ -1,5 +1,5 @@
 # OpenLearnResearch
-OpenLearnResearch is a project to build communities around massive online open courses (MOOCs) to help isolated learners get the most out of these resources.
+
 
 * Have you ever taken a Coursera or edX course? 
 * Were you able to find an exciting diverse team to study with or did you feel lonely? 
@@ -13,6 +13,7 @@ If you had any of these experiences, you are in the right place. We are building
 * [How can you get involved?](#how-can-you-get-involved)
 * [Get in touch](#get-in-touch)
 * [Find out more](#find-out-more)
+
 
 ## What are we doing?
 ### The problem 
