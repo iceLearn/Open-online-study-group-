@@ -40,7 +40,7 @@ We are open to all participants and adhere to the [contributor covenant](https:/
 Everyone is welcome to join our monthly town hall meetings (signup link coming soon), and you can contribute in different ways depending on your background:
 
 ### Being a non-technical contributor
-Join the conversation on our forum: (link coming soon)
+Join the conversation on our forum: (link coming soon) and join the chatroom in (Gitter)[https://gitter.im/Open-Learn-Research/openLearnResearch] 
 
 * Share your experiences and challenges with MOOCs
 * Help us refine our solutions and share your ideas
