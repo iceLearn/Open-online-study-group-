@@ -37,16 +37,27 @@ We need both learners and technical contributors. We need help in clarifying our
 
 We are open to all participants and adhere to the [contributor covenant](https://github.com/iceLearn/Openlearnresearch/blob/master/CODE_OF_CONDUCT.md).
 
-Everyone is welcome to join our monthly town hall meetings (signup link coming soon), and you can contribute in different ways depending on your background:
+Everyone is welcome to join our monthly town hall meetings - [signup](https://docs.google.com/forms/d/e/1FAIpQLSfFPjzNhwugvprYr0OSPjRONGYn34Gg6-RFxml1ht5It_SBLw/viewform?usp=sf_link) for invitations to join meeetings, and you can contribute in different ways depending on your background:
 
 ### Being a non-technical contributor
-Join the conversation on our forum: (link coming soon) and join the chatroom in (Gitter)[https://gitter.im/Open-Learn-Research/openLearnResearch] 
+Join the conversation on our forum: (link coming soon) and join the chatroom in [Gitter](https://gitter.im/Open-Learn-Research/openLearnResearch) 
 
 * Share your experiences and challenges with MOOCs
 * Help us refine our solutions and share your ideas
 
 ### Being a technical contributor
 Check our open [issues](https://github.com/iceLearn/Openlearnresearch/issues). Issues tagged [mozsprint](https://github.com/iceLearn/Openlearnresearch/issues?utf8=✓&q=is%3Aopen+is%3Aissue+label%3Amozsprint+) are especially suitable for getting started by joining the conversation, or adding a solution with a pull request.
+
+### Being a research contributor
+While we are building the learning community, we would also focus on researching 
+* How online learners learn best?
+* How do online learners their platforms to be design? 
+* What makes online learners best connect with each other?
+* Do online learners network/ connect and learn? 
+* How online learners network/ connect and learn?
+* Do they learn better when connected than just learning on selfphase?
+
+Join the research discussions and conducting research actively with our core team and publish in research scholarly articles. For this we expect you to have expereince in research writing and research methodologies. Sign up to be a research contributer - [Join in](https://docs.google.com/forms/d/e/1FAIpQLSfV_OdyUq2iSUc8_7boqc2XQbJBKzQ8llmNhUmj78Mk8Irwdg/viewform?usp=sf_link)
 
 **If you're interested in UI/UX and usability research**, let us know. We’re eager to get you involved.
 
