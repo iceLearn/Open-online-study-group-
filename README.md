@@ -1,4 +1,4 @@
-# OpenLearnResearch
+# Open Online Study Group (OOSG)
 
 
 * Have you ever taken a Coursera or edX course? 
