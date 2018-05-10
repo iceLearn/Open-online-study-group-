@@ -1,0 +1,104 @@
+
+ /* ----- styling Sections and compnants ------ */
+.white-bg{
+    background-color: #ffffff;
+}
+.red-bg{
+    background-color: red;
+}
+.border{
+    border: 3px solid black;
+}
+.aboutUsContainer{
+    background-color: #f0f0f0;
+    /* background-image: url("../images/bgAboutUs.png");
+    background-size: contain; */
+}
+.howItWorksContainer{
+    background-color: #ffffff;
+
+}
+.mainFooter{
+    background-color: #003f8c;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+    border-top: 5px solid #00295b;
+}
+
+.mainFooter i{
+   margin: 3px;
+   padding: 5px;
+   border-radius: 100%;
+}
+ /* ----- styling text ------ */
+.mainHeading{
+    color: #003f8c;
+    font-weight: 200;
+    font-size: 2.4em;
+}
+.tagline{
+    padding: 10px;
+    color: rgb(94, 94, 94) ;
+    width: 30%;
+    font-weight: 200;
+    margin: auto;
+}
+
+.titleHeading{
+    padding: 50px;
+    font-weight: 300;
+    font-size: 30px;
+}
+ /* ----- styling images ------ */
+.imageMainLogo{
+    width: 40%;
+    padding:40px;
+}
+.smallLogo{
+    padding:5px;
+}
+.headImage{
+    text-align: center;
+    padding: 30px  30px  60px  30px;
+  
+ }
+
+ /* ----- styling buttons ------ */
+.btnGitRepo{
+    margin: 0px;
+    border:2px solid #003f8c !important;
+    color: #003f8c  !important;
+}
+
+.btnGitRepo:hover{
+    background-color: #003f8c !important ;
+    color: white !important;
+}
+
+.btnFindMore{
+    background-color: #003f8c !important ;
+    color: white !important;
+}
+
+.btnFindMore:hover{
+    margin: 0px;
+    border:2px solid #003f8c !important;
+    color: #ffffff  !important;
+}
+
+
+ /* ----- Media queries to increase resposiveness  ------ */
+
+@media only screen and (max-width: 1200px) {
+    .tagline{
+        color: rgb(94, 94, 94) ;
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 750px) {
+    .imageMainLogo{
+        width: 90%;
+        padding:10px;
+    }
+}
