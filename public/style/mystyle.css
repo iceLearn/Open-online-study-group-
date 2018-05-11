@@ -102,3 +102,15 @@
         padding:10px;
     }
 }
+@media only screen and (max-width: 750px) {
+    .imageMainLogo{
+        width: 90%;
+        padding:10px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .topMargin{
+        margin-top: 10px;
+    }
+}
